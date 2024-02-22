@@ -1,5 +1,11 @@
 # NIRPS-detector-charactrrization
-scripts used to characterized NIRPS's infrared detector.
+This repository conserves ever scripts used to characterized NIRPS's infrared detector at La Silla.
+# Dependencies
+- astropy
+- seaborn
+- tqdm
+- numpy
+- [...]
 # Data
 All data are publicaly available and can be found here: 
 # Steps to recreate all the graphics

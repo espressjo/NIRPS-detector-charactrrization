@@ -7,7 +7,7 @@ This repository conserves ever scripts used to characterized NIRPS's infrared de
 - numpy
 - [...]
 # Data
-All data are publicaly available and can be found here: 
+All data are publicaly available and can be found here: https://www.astro.umontreal.ca/~nirps/
 # Steps to recreate all the graphics
 1.  Clone the scripts e.g., git clone
 2.  Download the data to a local directory.

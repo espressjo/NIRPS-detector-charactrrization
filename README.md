@@ -1,11 +1,16 @@
 # NIRPS Detector Charactrrization
 This repository conserves ever scripts used to characterized NIRPS's infrared detector at La Silla.
 # Dependencies
-- astropy
-- seaborn
-- tqdm
-- numpy
-- [...]
+Tested with the following version of python packages. However, it should work with version greater than the own listed below.
+- astropy 4.0
+- seaborn 0.11.1
+- tqdm 2.42.1
+- numpy 1.20.1
+- matplotlib 3.1.3
+- scanf 1.5.2
+- scipy 1.4.1
+- natsort 7.0.1
+
 # Data
 All data are publicaly available and can be found here: https://www.astro.umontreal.ca/~nirps/
 # Steps to recreate all the graphics

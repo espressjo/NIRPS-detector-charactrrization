@@ -1,4 +1,4 @@
-# NIRPS-detector-charactrrization
+# NIRPS Detector Charactrrization
 This repository conserves ever scripts used to characterized NIRPS's infrared detector at La Silla.
 # Dependencies
 - astropy

@@ -12,13 +12,16 @@ Tested with the following version of python packages. However, it should work wi
 - natsort 7.0.1
 
 # Data
-All data are publicaly available and can be found here: https://www.astro.umontreal.ca/~nirps/
+All data are publicaly available and can be found here: https://www.astro.umontreal.ca/~nirps/characterization
 # Steps to recreate all the graphics
 1.  Clone the scripts e.g., git clone
 2.  Download the data to a local directory.
 3.  Edit the config file to set the proper paths e.i., DATAPATH, OUTPUTPATH.
 4.  Follow the diagram to execute each script in the right order.
 Some of the graphs are not output of the above scripts. Launch each of the following script to generate the remaining graphs;
-- bla.py
-- blabla.py
-- 
+- nl_comp_copl_chile.py (Non-linearity comparison COPL-LaSilla)
+- nl_report.py (Non-linearity correction)
+- readoutnoise_comp.py (readoutnoise comparison COPL-LaSilla)
+  
+
+![nirps-characterization](https://github.com/espressjo/NIRPS-detector-charactrrization/assets/46936139/813a3856-c996-4504-900d-f686af2d6adf)

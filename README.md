@@ -12,7 +12,7 @@ Tested with the following version of python packages. However, it should work wi
 - natsort 7.0.1
 
 # Data
-All data are publicaly available and can be found here: https://www.astro.umontreal.ca/~nirps/
+All data are publicaly available and can be found here: https://www.astro.umontreal.ca/~nirps/characterization
 # Steps to recreate all the graphics
 1.  Clone the scripts e.g., git clone
 2.  Download the data to a local directory.
